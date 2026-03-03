@@ -94,7 +94,7 @@
             <div class="progress-fill"></div>
         </div>
 
-        <p class="redirect-note">Redirecting to login screen</p>
+        <p class="redirect-note">Taking you to the login page</p>
     </div>
 
 </body>
